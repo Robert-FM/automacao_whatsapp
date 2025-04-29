@@ -7,7 +7,7 @@ import time
 
 # Lista de números para envio
 numeros = [
-    "5581997835416"
+    "5581999999999"
 ]
 
 mensagem = "Olá! Esta é uma mensagem com imagem automática via WhatsApp Web."
